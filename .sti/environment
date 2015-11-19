@@ -1,0 +1,2 @@
+PHP_INI_SCAN_DIR=/opt/app-root/src/.php.ini
+OPCACHE_REVALIDATE_FREQ=0
